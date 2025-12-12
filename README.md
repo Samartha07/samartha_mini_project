@@ -110,11 +110,9 @@ The browser will automatically open the GUI.
 
 ## 🧑‍💻 **Author**
 
-**Samartha (1AM23AI049)
-Jignesh (1AM23AI044)
+**Samartha (1AM23AI049),
+Jignesh (1AM23AI044),
 Tafazul(1AM23AI046)**
 Deepfake Detection Project – Lightweight AI Prototype
 Guided by: *Asst. Prof. C Subhashri (Dept. of AIML, AMCEC)*
 
-
-Just tell me!
